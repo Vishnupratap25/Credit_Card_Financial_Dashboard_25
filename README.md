@@ -1,2 +1,3 @@
 # Credit_Card_Financial_Dashboard_25
-I created a Credit Card Financial Dashboard using SQL and Power BI, where I analysed transaction and customer data to derive business insights.
+I created a Credit Card Financial Dashboard using SQL and Power BI, where I analysed transaction and customer data to derive business insights.I wrote SQL queries to clean and prepare the data, then designed interactive visuals in Power BI to monitor key performance metrics such as spending trends, customer segments, and delinquency rates.
+This project strengthened my analytical thinking, data storytelling, and dashboard development skills. I took full ownership – from data extraction to presenting insights in a simulated business review meeting – which gave me a clear understanding of how analysts support decision-making in real companies.
